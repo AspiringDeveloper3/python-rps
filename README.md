@@ -1,4 +1,4 @@
-# YOUR PROJECT TITLE
+# PYTHON ROCK PAPER SCISSORS
 
     #### Video Demo:  <URL HERE>
     #### Description:
